@@ -1,0 +1,12 @@
+scikit-learn
+GitPython
+pygit2
+fuzzywuzzy
+flask-wtf
+pip
+tqdm
+git
+procmail
+flask-bootstrap
+flask-nav
+anytree

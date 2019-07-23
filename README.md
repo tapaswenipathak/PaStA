@@ -42,6 +42,12 @@ with:
 $ pip3 install --user flask-bootstrap flask-nav anytree
 ```
 
+or in any environment you can run
+
+```
+pip3 install -r requirements.txt
+```
+
 Getting started
 ---------------
 - Select the active project configuration
